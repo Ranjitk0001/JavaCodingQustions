@@ -38,3 +38,7 @@ public class LongestSubStringWithoutRepeatingChar {
 	}
 
 }
+
+//The Longest subString :-[b, a, c]
+//The Longest subString Length:3
+
